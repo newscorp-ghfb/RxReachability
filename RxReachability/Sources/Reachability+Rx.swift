@@ -81,4 +81,3 @@ public extension Reactive where Base: Reachability {
       .map { _ in Void() }
   }
 }
-
